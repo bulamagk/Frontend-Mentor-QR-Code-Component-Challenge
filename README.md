@@ -18,10 +18,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL here](https://github.com/bulamagk/Frontend-Mentor-QR-Code-Component-Challenge.git)
+- Live Site URL: [Live Preview](https://bulamagk.github.io/Frontend-Mentor-QR-Code-Component-Challenge/)
 
 ## My process
+
+Mobile First
 
 ### Built with
 
